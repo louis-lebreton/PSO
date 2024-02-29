@@ -3,7 +3,7 @@ PSO (Particle Swarm Optimization) Algorithm
 Streamlit App
 """
 import os
-os.chdir('C:/Users/lebre/OneDrive/Bureau/PythonS8/PSO_Python')
+# os.chdir('C:/Users/lebre/OneDrive/Bureau/PythonS8/PSO_Python')
 import pandas as pd
 import autograd.numpy as np
 import matplotlib.pyplot as plt
