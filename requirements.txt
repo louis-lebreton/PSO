@@ -30,9 +30,6 @@ cycler==0.12.1
 debugpy==1.8.1
 decorator==5.1.1
 defusedxml==0.7.1
-Django==5.0.2
-django-extensions==3.2.3
-django-tastypie==0.14.6
 executing==2.0.1
 fastjsonschema==2.19.1
 fiona==1.9.5
