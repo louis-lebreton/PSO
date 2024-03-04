@@ -4,6 +4,7 @@
 
 ### Project steps :
 - Application on SAS
+- Writing a dissertation on the subject
 - Application on Python
 - Deployment on a Streamlit app
 
