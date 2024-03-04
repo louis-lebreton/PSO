@@ -3,6 +3,10 @@
 ### Project goal : 
 PSO Algorithm, its specifications and how it can be used. Visualization on a Streamlit app.
 
+<p align="center">
+<img src="Images/pso_image.jpg" alt="dendrogram" width="650"/>
+</p>
+
 ### Project steps :
 - Application on SAS
 - Writing a dissertation on the subject
@@ -16,9 +20,7 @@ https://particleswarmoptimization-i2hpcpo3szscfm3tygzdwt.streamlit.app/
 streamlit, imageio, pandas, matplotlib
 
 <p align="center">
-<img src="corr_circle.jpg" alt="corr_circle" width="450"/>
+<img src="Images/streamlit_app_image.png" alt="streamlit_app_image" width="750"/>
 </p>
-<p align="center">
-<img src="dendrogram.jpg" alt="dendrogram" width="650"/>
-</p>
+
 
