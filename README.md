@@ -3,11 +3,12 @@
 ### Project goal : 
 
 ### Project steps :
-- SAS
-- Python
+- Application on SAS
+- Application on Python
+- Deployment on a Streamlit app
 
-### Libraries used :
-sklearn, pandas, seaborn, FactoMineR
+### Python libraries used :
+streamlit, imageio, pandas, matplotlib
 
 <p align="center">
 <img src="corr_circle.jpg" alt="corr_circle" width="450"/>
