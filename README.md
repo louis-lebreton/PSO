@@ -17,7 +17,7 @@ Explore the PSO (Particle Swarm Optimization) Algorithm, including its unique sp
 https://particleswarmoptimization-i2hpcpo3szscfm3tygzdwt.streamlit.app/
 
 <p align="center">
-<img src="Images/streamlit_app_image.png" alt="streamlit_app_image" width="750"/>
+<img src="Images/streamlit_app_image.png" alt="streamlit_app_image" width="700"/>
 </p>
 
 ### Python libraries used :
