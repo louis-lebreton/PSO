@@ -14,7 +14,7 @@ Explore the PSO (Particle Swarm Optimization) Algorithm, including its unique sp
 - Deployment on a Streamlit app
 
 ### Streamlit app
-https://particleswarmoptimization-visualization.streamlit.app __(Poor performance on the free Streamlit cloud  compared to local development)__
+
 <p align="center">
 <img src="Images/streamlit_app_image.png" alt="streamlit_app_image" width="700"/>
 </p>
